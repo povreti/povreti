@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**povreti/povreti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Matvei Kuznetsov</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Aspiring Data Engineer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- 2nd-year student at Saint Petersburg State Institute of Technology (Technical University).
+- Studying Informatics and Computer Engineering.
+- Interested in Data Engineering and data processing.
+- Looking for my first Data Engineering internship.
+
+### Tech Stack
+
+- **Programming:** Python
+- **Databases:** SQL, SQLite
+- **Data Processing:** Pandas, JSON
+- **Storage:** MinIO
+- **APIs:** Requests
+
+---
+
+<p align="center">
+  Thank you for visiting my profile.
+</p>
