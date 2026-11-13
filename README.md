@@ -19,8 +19,6 @@
 - **Programming:** Python
 - **Databases:** SQL, SQLite
 - **Data Processing:** Pandas, JSON
-- **Storage:** MinIO
-- **APIs:** Requests
 
 ---
 
